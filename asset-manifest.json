@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/amagon/static/css/main.7c76141f.css",
+    "main.js": "/amagon/static/js/main.b5d3e6b4.js",
+    "static/js/787.15341332.chunk.js": "/amagon/static/js/787.15341332.chunk.js",
+    "static/media/logo.png": "/amagon/static/media/logo.0dd9a5104bbc1da3e6ae.png",
+    "index.html": "/amagon/index.html",
+    "main.7c76141f.css.map": "/amagon/static/css/main.7c76141f.css.map",
+    "main.b5d3e6b4.js.map": "/amagon/static/js/main.b5d3e6b4.js.map",
+    "787.15341332.chunk.js.map": "/amagon/static/js/787.15341332.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c76141f.css",
+    "static/js/main.b5d3e6b4.js"
+  ]
+}
