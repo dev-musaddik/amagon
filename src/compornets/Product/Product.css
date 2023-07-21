@@ -1,0 +1,22 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid darkcyan;
+}
+.row2_details{
+    display:flex;
+    flex-direction: column;
+}
+.bug{
+    display:flex;
+}
+.row1_proDetails button {
+    width: 150px;
+    padding:5px;
+    background-color: goldenrod;
+    border: 1px solid rgb(255, 174, 0);
+    border-radius: 3px;
+    transition: .9s;
+}
+.row1_proDetails button:hover{
+    background: gold;
+}

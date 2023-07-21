@@ -1,0 +1,25 @@
+.Cart{
+     text-align: center;
+     
+   /* display: flex;
+    flex-direction: column; */
+    /* position: fixed;
+    
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 0; */
+}
+.Cart .details{
+    
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+  
+}
+.Cart .details .row1{
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+}
